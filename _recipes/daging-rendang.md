@@ -29,4 +29,4 @@ Langzaam gestoofd rundvlees met kokosmelk, pepers.
 
 1. Tekst
 
-![image-left](/assets/images/daging-rendang.jpg){: .align-left}
+![image-left]({{ site.url }}/assets/images/daging-rendang.jpg){: .align-left}
