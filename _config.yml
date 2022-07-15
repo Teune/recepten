@@ -166,7 +166,6 @@ exclude:
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -312,3 +311,7 @@ collections:
 feed:
   collections:
     - recipes
+head_scripts:
+  - https://code.jquery.com/jquery-3.5.1.min.js
+footer_scripts:
+  - /assets/js/functions.js
