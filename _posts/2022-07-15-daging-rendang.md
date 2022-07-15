@@ -1,7 +1,7 @@
 ---
 title: "Daging rendang"
 excerpt: "Langzaam gestoofd rundvlees met kokosmelk, pepers."
-  
+categories: [Indisch, Indonesisch]
 ---
 Langzaam gestoofd rundvlees met kokosmelk, pepers. 
 ## Ingredienten (boemboe kruidenmix) 

@@ -1,12 +1,14 @@
 ---
 title: "Babi Ketjap"
+excerpt: "Gestoofd varkensvlees met zoete sojasaus."
+categories: [Indisch, Indonesisch]
 ---
 
 Gestoofd varkensvlees met zoete sojasaus.
 
 ## Ingredienten
 
-- [ ] 500gr Hamlappen
+- [ ] 500 gr Hamlappen
 - [ ] 2 koppen ketjap manis
 - [ ] 2 koppen water
 - [ ] 2 teentjes knoflook

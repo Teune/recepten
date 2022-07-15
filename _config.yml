@@ -286,31 +286,31 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-       # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true      
+  #      _recipes
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true      
 
 # Collections
-collections:
+# collections:
  
-  recipes:
-    output: true
-    permalink: /:collection/:path/ 
-    read_time: true
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/ 
+#     read_time: true
 
 # Feed
-feed:
-  collections:
-    - recipes
+# feed:
+#   collections:
+#     - recipes
 head_scripts:
   - https://code.jquery.com/jquery-3.5.1.min.js
 footer_scripts:
