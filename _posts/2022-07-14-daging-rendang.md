@@ -1,6 +1,8 @@
 ---
 title: "Daging rendang"
 excerpt: "Langzaam gestoofd rundvlees met kokosmelk, pepers."
+header:
+  teaser: /assets/images/daging-rendang.jpg
 categories: 
   - Indisch
   - Indonesisch
