@@ -1,11 +1,12 @@
 ---
 title: "Daging rendang"
+excerpt: "Langzaam gestoofd rundvlees met kokosmelk, pepers."
+header:
+ # image: /assets/images/daging-rendang.jpg
+  teaser: assets/images/daging-rendang.jpg
 ---
-
-Langzaam gestoofd rundvlees met kokosmelk, pepers
-
-## Ingredienten (boemboe kruidenmix)
-
+Langzaam gestoofd rundvlees met kokosmelk, pepers. 
+## Ingredienten (boemboe kruidenmix) 
 * 5 kemirinoten of 1 el kemiripasta
 * 3 uien, fijngehakt
 * 5 tenen knoflook, fijngehakt
@@ -29,3 +30,5 @@ Langzaam gestoofd rundvlees met kokosmelk, pepers
 ## Instructies
 
 1. Tekst
+
+![image-right](/assets/images/daging-rendang.jpg){: .align-left}
