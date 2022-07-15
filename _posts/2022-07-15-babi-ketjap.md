@@ -1,7 +1,11 @@
 ---
 title: "Babi Ketjap"
 excerpt: "Gestoofd varkensvlees met zoete sojasaus."
-categories: [Indisch, Indonesisch]
+categories: 
+  - Indisch
+  - Indonesisch
+tags: 
+  - Varkensvlees  
 ---
 
 Gestoofd varkensvlees met zoete sojasaus.
