@@ -124,7 +124,7 @@ author:
       url: "https://facebook.com/teune"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/teune"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/teune"
@@ -308,6 +308,7 @@ collections:
     permalink: /:collection/:path/ 
     read_time: true
 
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# Feed
+feed:
+  collections:
+    - recipes
